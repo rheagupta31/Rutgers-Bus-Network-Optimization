@@ -1,7 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5GqajVEC)
-# MSDS-597 Project
 
-Group: 15
+🚍 **Rutgers Bus Network Optimization**
+
+Developed a data-driven solution to optimize Rutgers University's campus bus system using real-world stop and route data. Applied network analysis and scheduling algorithms to improve travel efficiency, minimize wait times, and enhance service reliability for students and staff.
 
 ## Project summary
 
