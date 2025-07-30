@@ -1,5 +1,5 @@
 
-🚍 **Rutgers Bus Network Optimization**
+# 🚍 **Rutgers Bus Network Optimization**
 
 Developed a data-driven solution to optimize Rutgers University's campus bus system using real-world stop and route data. Applied network analysis and scheduling algorithms to improve travel efficiency, minimize wait times, and enhance service reliability for students and staff.
 
