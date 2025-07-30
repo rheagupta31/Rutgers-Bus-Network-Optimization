@@ -37,7 +37,7 @@ The following scripts/notebooks were used produce the summary:
 - `notebooks/data_enrichment.ipynb`
 - `notebooks/data_analysis.ipynb`
 
-[Give a short description of what the notebooks contain, and their location in the git repo]
+
 
 ## Reproducibility
 
