@@ -3,19 +3,6 @@
 
 Developed a data-driven solution to optimize Rutgers University's campus bus system using real-world stop and route data. Applied network analysis and scheduling algorithms to improve travel efficiency, minimize wait times, and enhance service reliability for students and staff.
 
-## Project summary
-
-Our project summary can be found:
-
-- as a notebook on `nbviewer`
-
-https://nbviewer.org/gist/YOUR-GH-USERNAME/????????????????????????/
-
-OR
-
-- as a website:
-
-https://moran-teaching.github.io/project-repo/????????????
 
 ## Accessing data
 
